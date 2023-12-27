@@ -1,0 +1,11 @@
+# Intro
+This is a small "Teaching AI to play Snake" project to get me started with reinforced AI. I am using this `https://www.youtube.com/watch?v=L8ypSXwyBds&t=1s` tutorial. I will be saving all the steps in this file.
+
+# Setup
+
+1. Using Conda for simpler env menagement. ```conda create -n ENV_NAME``` of course for Windows there have to be some problems so if conda install is not foud add this to path
+    C:\Users\username\anaconda3\Scripts
+    C:\Users\username\anaconda3
+    C:\Users\username\anaconda3\Library\bin
+Or just don't use powershell.
+
